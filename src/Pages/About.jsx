@@ -210,7 +210,7 @@ const AboutPage = () => {
             </h2>
 
             <p
-              className="text-base sm:text-lg lg:text-xl text-gray-400 leading-relaxed text-justify pb-4 sm:pb-0"
+              className="text-base sm:text-lg lg:text-xl text-gray-400 leading-relaxed text-left pb-4 sm:pb-0"
               data-aos="fade-right"
               data-aos-duration="1500"
             >
@@ -218,7 +218,7 @@ const AboutPage = () => {
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="https://drive.google.com/file/d/1T_aLBcVcVvvGS47vT3WvxlspaeFE67YW/view?usp=sharing" className="w-full lg:w-auto">
+              <a href="/1.Kartik_Resume_Main.pdf" className="w-full lg:w-auto">
                 <button
                   data-aos="fade-up"
                   data-aos-duration="800"
